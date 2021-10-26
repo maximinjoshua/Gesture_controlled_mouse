@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode
+Hand Gesture Control System for PC.pptx
+__pycache__
